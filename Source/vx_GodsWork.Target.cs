@@ -11,5 +11,6 @@ public class vx_GodsWorkTarget : TargetRules
 		DefaultBuildSettings = BuildSettingsVersion.V7;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_8;
 		ExtraModuleNames.Add("vx_GodsWork");
+		
 	}
 }
